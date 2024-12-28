@@ -59,7 +59,9 @@ Run the following components **simultaneously** on different devices connected t
    ```
 
 ## Screenshots
-![UI Preview](assets/ui_preview.png)
+<img src="assets/login_page.png" alt="UI Preview" width="500">
+<img src="assets/main_page.png" alt="UI Preview" width="500">
+<img src="assets/portfolio.png" alt="UI Preview" width="500">
 *📸 Example of the user interface designed with PyQT.*
 
 ## Notes
@@ -75,6 +77,7 @@ Run the following components **simultaneously** on different devices connected t
 2. **Firebase Authentication**:
    - 🔑 Ensure proper Firebase credentials are configured.
    - 🌐 Check internet connectivity.
+   - Provide appropriate JSON file to authenticate the firbase(check code for structure of the database)
 
 ## Future Improvements
 - 🚀 Transition to a faster UI framework like **JavaFX** or **Swing**.
@@ -82,4 +85,4 @@ Run the following components **simultaneously** on different devices connected t
 - 📡 Implement advanced networking features such as **SSL/TLS** for secure communication.
 
 ---
-**Author**: [Dharun M]
+
